@@ -1,0 +1,66 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    defaultConfig {
+        applicationId 'com.gafasdesol.hawkersfans'
+        minSdkVersion 17
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        manifestPlaceholders = [onesignal_app_id: "58f16017-f143-41ae-b826-6480d1c38acc", onesignal_google_project_number: "REMOTE"]
+    }
+    repositories {
+        mavenCentral()
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+        }
+    }
+    aaptOptions {
+        cruncherEnabled = false
+    }
+    productFlavors {
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.android.support:design:27.1.1'
+    implementation 'com.android.support:support-v4:27.1.1'
+    implementation 'com.android.support:cardview-v7:27.1.1'
+    implementation 'com.android.support:preference-v7:27.1.1'
+    implementation 'com.android.support:preference-v14:27.1.1'
+    implementation 'com.android.support:recyclerview-v7:27.1.1'
+    implementation 'com.google.code.gson:gson:2.8.5'
+    implementation 'com.squareup.retrofit2:retrofit:2.3.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.11.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.9.1'
+    implementation 'com.squareup.picasso:picasso:2.3.2'
+    implementation 'com.mcxiaoke.volley:library:1.0.19'
+    implementation 'com.github.bumptech.glide:glide:3.7.0'
+    implementation 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.bogdwellers:pinchtozoom:0.1'
+    implementation 'com.daimajia.slider:library:1.1.5@aar'
+    implementation 'com.crystal:crystalrangeseekbar:1.1.1'
+    implementation 'com.github.apl-devs:appintro:v4.2.3'
+    implementation 'hyogeun.github.com.colorratingbar:ColorRatingBar:1.0.1'
+    implementation 'com.onesignal:OneSignal:3.10.1'
+    implementation 'com.facebook.android:facebook-android-sdk:4.35.0'
+    implementation 'com.google.firebase:firebase-ads:15.0.1'
+    implementation 'com.google.firebase:firebase-auth:16.0.2'
+    implementation 'com.google.firebase:firebase-messaging:17.1.0'
+    implementation 'com.google.android.gms:play-services-auth:15.0.1'
+    implementation 'com.google.android.gms:play-services-maps:15.0.1'
+    implementation 'com.google.android.gms:play-services-location:15.0.1'
+    implementation 'com.google.firebase:firebase-core:16.0.1'
+}
+
+apply plugin: 'com.google.gms.google-services'

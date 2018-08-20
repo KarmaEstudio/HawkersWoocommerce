@@ -1,0 +1,3 @@
+# Referenced at F:\Dropbox\ProyectosAndroid\woocommerce\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:60
+-keep class com.gafasdesol.hawkersfans.app.App { <init>(...); }
+

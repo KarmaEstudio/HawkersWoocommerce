@@ -1,0 +1,4 @@
+#Mon Aug 20 03:12:56 CEST 2018
+base.0=F\:\\Dropbox\\ProyectosAndroid\\woocommerce\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

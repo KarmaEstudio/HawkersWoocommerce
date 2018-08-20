@@ -1,0 +1,277 @@
+<resources>
+
+    <!--  Main Strings -->
+    <string name="actionSearch"> BÚSQUEDA </string>
+    <string name="actionLanguage"> IDIOMA </string>
+
+    <string name="actionHome"> HOME </string>
+    <string name="actionCategory"> CATEGORY </string>
+    <string name="actionCategories"> CATEGORÍAS </string>
+    <string name="actionShop"> CATÁLOGO </string>
+    <string name="actionCart"> MY CART </string>
+    <string name="actionOrders"> MY ORDERS </string>
+    <string name="actionAccount"> MI CUENTA </string>
+    <string name="actionAddresses"> MI DIRECCIÓN </string>
+    <string name="actionFavourites"> MIS FAVORITOS </string>
+    <string name="actionSettings"> AJUSTES </string>
+    <string name="actionNews"> NEWS </string>
+    <string name="actionIntro"> INTRO </string>
+    <string name="actionAbout"> ABOUT </string>
+    <string name="actionContactUs"> CONTACT US </string>
+    <string name="actionShareApp"> ¡COMPÁRTENOS! </string>
+    <string name="actionRateApp"> ¡VALÓRANOS! </string>
+    <string name="actionLogin"> LOGIN </string>
+    <string name="actionLogout"> LOGOUT </string>
+
+    <string name="homeStyle1"> HOME 1 </string>
+    <string name="homeStyle2"> HOME 2 </string>
+    <string name="homeStyle3"> HOME 3 </string>
+    <string name="homeStyle4"> HOME 4 </string>
+    <string name="homeStyle5"> HOME 5 </string>
+    <string name="categoryStyle1"> CATEGORY 1 </string>
+    <string name="categoryStyle2"> CATEGORY 2 </string>
+    <string name="categoryStyle3"> CATEGORY 3 </string>
+    <string name="categoryStyle4"> CATEGORY 4 </string>
+    <string name="categoryStyle5"> CATEGORY 5 </string>
+    <string name="categoryStyle6"> CATEGORY 6 </string>
+
+    <string name="Sale"> REBAJADA </string>
+    <string name="Newest"> LO MÁS NUEVO </string>
+    <string name="Featured"> DESTACADO </string>
+
+    <string name="all"> Todo </string>
+    <string name="newest"> Lo más nuevo </string>
+    <string name="featured"> Destacado </string>
+    <string name="super_deals"> Ofertas </string>
+    <string name="recentlyViewed"> Visto Recientemente </string>
+
+    <string name="news_all"> All News </string>
+    <string name="news_categories"> News Categories </string>
+    <string name="news_description"> News Description </string>
+
+
+    <!--  Other Strings -->
+    <string name="ok"> OK </string>
+    <string name="and"> y </string>
+    <string name="NEW"> NUEVO </string>
+    <string name="save"> Guardar </string>
+    <string name="send"> Enviar </string>
+    <string name="next"> Siguiente </string>
+    <string name="grant"> Grant </string>
+    <string name="title"> Título </string>
+    <string name="retry"> Retry </string>
+    <string name="apply"> Apply </string>
+    <string name="search"> Buscar </string>
+    <string name="clear"> Limpiar </string>
+    <string name="login"> Login </string>
+    <string name="signup"> Registro </string>
+    <string name="cancel"> Cancelar </string>
+    <string name="welcome"> Bienvenido </string>
+    <string name="explore"> Explore </string>
+    <string name="checkout"> Checkout </string>
+    <string name="register"> Registrar </string>
+
+    <string name="view"> Ver </string>
+    <string name="date"> Fecha </string>
+    <string name="products"> Productos </string>
+    <string name="category"> Categoría </string>
+    <string name="categories"> Categorías </string>
+    <string name="total_price"> Total Price </string>
+    <string name="product_price"> Product Price </string>
+    <string name="checkout_price"> Checkout Price </string>
+    <string name="product_title"> Product Title </string>
+    <string name="view_product"> COMPRAR </string>
+    <string name="quantity"> Quantity </string>
+    <string name="description"> Descripción </string>
+    <string name="attribute_name"> Attribute Name </string>
+    <string name="product_description"> Descripción del Producto </string>
+
+    <string name="google_login"> Google Login </string>
+    <string name="facebook_login"> Facebook Login </string>
+    <string name="in_stock"> In Stock </string>
+    <string name="outOfStock"> Out of Stock </string>
+    <string name="addToCart"> Add to Cart </string>
+    <string name="removeProduct"> Quitar </string>
+    <string name="save_address"> Save Address </string>
+    <string name="save_changes"> Save Changes </string>
+    <string name="reset_filters"> Reset Filters </string>
+    <string name="continue_shopping"> Continue Shopping </string>
+
+    <string name="order_id"> Order ID </string>
+    <string name="order_status"> Order Status </string>
+    <string name="order_date"> Order Date </string>
+    <string name="order_details"> Order Details </string>
+    <string name="order_confirmed"> Order Confirmed </string>
+    <string name="order_notes"> Order Notes </string>
+    <string name="cancel_order"> Cancel Order </string>
+    <string name="no_of_products"> No. of Products </string>
+
+    <string name="tax"> Tax </string>
+    <string name="shipping"> Shipping </string>
+    <string name="discount"> Discount </string>
+    <string name="subtotal"> Subtotal </string>
+    <string name="total"> Total </string>
+    <string name="coupon"> Coupon </string>
+    <string name="coupon_code"> Coupon Code </string>
+    <string name="coupon_amount"> Coupon Amount </string>
+    <string name="coupon_discount"> Coupon Discount </string>
+    <string name="coupon_type"> Coupon Type </string>
+    <string name="sample_coupons"> Sample Coupon Codes </string>
+    <string name="payment_method"> Payment Method </string>
+    <string name="billing_address"> Billing Address </string>
+    <string name="shipping_address"> Shipping Address </string>
+    <string name="shipping_method"> Shipping Method </string>
+
+
+    <!--  Form Strings -->
+    <string name="full_name"> Full Name </string>
+    <string name="first_name"> First Name </string>
+    <string name="last_name"> Last Name </string>
+    <string name="email"> Email </string>
+    <string name="email_address"> Email Address </string>
+    <string name="mobile"> Mobile </string>
+    <string name="contact_no"> Contact No </string>
+    <string name="address"> Address </string>
+    <string name="address_1"> Address 1 </string>
+    <string name="address_2"> Address 2 </string>
+    <string name="company"> Company </string>
+    <string name="country"> Country </string>
+    <string name="zone"> Zone </string>
+    <string name="city"> City </string>
+    <string name="post_code"> Post Code </string>
+    <string name="password"> Password </string>
+    <string name="new_password"> New Password </string>
+    <string name="edit_profile"> Edit Profile </string>
+
+
+    <!--  Messages Strings -->
+    <string name="thank_you"> Thank You </string>
+    <string name="add_coupon"> Add Coupon? </string>
+    <string name="your_message"> Your Message </string>
+    <string name="empty_cart"> Your Cart is Empty </string>
+    <string name="record_not_found"> No se ha encontrado ningún registro </string>
+    <string name="item_added_to_cart"> Item Added to Cart </string>
+    <string name="added_to_favourites"> Added to Favourites </string>
+    <string name="removed_from_favourites"> Eliminado de Favoritos </string>
+    <string name="not_a_member"> Not a Member? </string>
+    <string name="login_or_signup"> Login &amp; Register </string>
+    <string name="login_or_create_account"> Please Login or create Account </string>
+    <string name="thank_you_for_shopping"> Thank You for shopping with us! </string>
+    <string name="coupon_removes_other_coupons"> This coupon may remove all other coupons! </string>
+
+    <string name="forgot_your_password"> Forgot Your Password? </string>
+    <string name="forgot_password"> I\'ve forgotten my password? </string>
+    <string name="already_have_account"> Already have an account? </string>
+    <string name="search_product_by_name"> Introduce tu búsquededa... </string>
+    <string name="default_shipping"> Default Shipping Address </string>
+
+    <string name="invalid_address"> Invalid Address </string>
+    <string name="no_internet"> Internet Connection is not Available </string>
+
+    <string name="order_placed">" Order Placed Successfully. "</string>
+    <string name="order_cancelled"> Order has been cancelled successfully. </string>
+    <string name="account_updated">" Account Details has been updated successfully. "</string>
+
+    <string name="permission_rejected"> Permission not Granted! </string>
+    <string name="permission_camera_storage"> Need Camera and Storage Permissions! </string>
+    <string name="permission_camera_storage_needed"> This app needs camera and storage permissions to take pictures from the gallery or with the camera. </string>
+
+    <string name="rate_now"> ¡Valorar! </string>
+    <string name="not_now"> Ahora No </string>
+    <string name="rate_app_msg"> Si te gusta esta aplpicación, te agradeceríamos que te tomaras un momento para dejar una valoración. </string>
+
+
+    <!--  Errors Message Strings -->
+    <string name="enter_name"> Enter Your Name </string>
+    <string name="enter_city"> Enter Your City </string>
+    <string name="enter_message"> Enter Your Message </string>
+    <string name="select_zone"> Select Your Zone </string>
+    <string name="select_country"> Select Your Country </string>
+    <string name="invalid_first_name"> Invalid First Name </string>
+    <string name="invalid_last_name"> Invalid Last Name </string>
+    <string name="invalid_email"> Invalid Email Address </string>
+    <string name="invalid_password"> Invalid Password </string>
+    <string name="invalid_contact"> Invalid Contact No. </string>
+    <string name="invalid_post_code"> Invalid Postal Code </string>
+    <string name="unexpected_response"> Unexpected Server Response </string>
+
+
+    <!--  Coupon Error Strings -->
+    <string name="invalid_coupon"> Invalid Coupon </string>
+    <string name="coupon_expired"> Coupon is expired! </string>
+    <string name="coupon_applied"> Coupon already applied! </string>
+    <string name="coupon_cannot_be_applied"> Coupon cannot be applied! </string>
+    <string name="coupon_used_by_you"> You have already used this Coupon! </string>
+    <string name="coupon_used_by_all"> Coupon has been used by limited users! </string>
+    <string name="coupon_is_not_for_you"> You are not applicable to use this Coupon! </string>
+    <string name="coupon_cannot_used_with_existing"> Coupon cannot be used with existing Coupon! </string>
+    <string name="coupon_is_not_for_sale_items"> Coupon cannot be used on sale items! </string>
+    <string name="coupon_is_not_for_too_many_products"> Coupon cannot be used on too many products! </string>
+    <string name="coupon_is_not_for_these_products"> Coupon is not valid for these products! </string>
+    <string name="coupon_is_not_for_these_categories"> Coupon is not valid for these category of products! </string>
+    <string name="coupon_is_not_for_excluded_products"> Coupon cannot be used on excluded products! </string>
+    <string name="coupon_is_not_for_excluded_categories"> Coupon cannot be used on excluded categories! </string>
+    <string name="coupon_max_amount_is_less_than_order_total"> Cart total does not meet the maximum amount for Coupon! </string>
+    <string name="coupon_min_amount_is_greater_than_order_total"> Cart total does not meet the minimum amount for Coupon! </string>
+
+
+    <!--  App Intro Slides Strings -->
+    <string name="slide_1_title"> Home Page </string>
+    <string name="slide_2_title"> Category Page </string>
+    <string name="slide_3_title"> Shop Page </string>
+    <string name="slide_4_title"> Cart Page </string>
+    <string name="slide_5_title"> Order Page </string>
+    <string name="slide_1_desc"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </string>
+    <string name="slide_2_desc"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </string>
+    <string name="slide_3_desc"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </string>
+    <string name="slide_4_desc"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </string>
+    <string name="slide_5_desc"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </string>
+
+
+    <!--  App Settings Strings -->
+    <string name="select_language"> Select Language </string>
+    <string name="official_web"> Página Web Oficial </string>
+    <string name="share_app"> Comparte la Aplicación </string>
+    <string name="rate_app"> Valora la Aplicación </string>
+    <string name="privacy_policy"> Política de Privacidad </string>
+    <string name="refund_policy"> Refund Policy </string>
+    <string name="service_terms"> Términos del Servicio </string>
+    <string name="ad_interstitial"> Interstitial Ad </string>
+
+    <string name="push_notification"> Notificaciones Push </string>
+    <string name="local_notification"> Notificaciones Locales </string>
+
+
+    <string name="app_terms_services">
+        Creating an account means you\'re okay with our
+    </string>
+
+
+    <string-array name="sortBy_array">
+        <item> A - Z </item>
+        <item> Z - A </item>
+        <item> Lo más nuevo </item>
+    </string-array>
+
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </string>
+
+    <string name="drawerOpen">DrawerOpen</string>
+    <string name="drawerClose">DrawerClose</string>
+    <string name="username">Username</string>
+    <string name="invalid_name">" Invalid Name "</string>
+    <string name="invalid_company">" Invalid Company "</string>
+    <string name="choose_option">" Choose Option"</string>
+    <string name="related_products">" Te Recomendamos "</string>
+    <string name="additional_info">" Additional Info "</string>
+    <string name="continue_guest">" Continue as Guest "</string>
+    <string name="rate_product">" Rate Product "</string>
+    <string name="reviews_ratings">" Ratings and Reviews "</string>
+
+
+</resources>

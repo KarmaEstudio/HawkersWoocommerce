@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "980041123653",
+    "firebase_url": "https://hawkers-android-1534175881994.firebaseio.com",
+    "project_id": "hawkers-android-1534175881994",
+    "storage_bucket": "hawkers-android-1534175881994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980041123653:android:e0cd8a54348b3c5a",
+        "android_client_info": {
+          "package_name": "com.gafasdesol.hawkersfans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980041123653-7d1ctk50bhfbqogu22iibpcd2nhdqo4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gafasdesol.hawkersfans",
+            "certificate_hash": "7979b259403d25e21eacb9a46955fd7a639117ec"
+          }
+        },
+        {
+          "client_id": "980041123653-m5351hvt3fvv47rgv1e62a5onlqms40e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA8r_h3IRfkqEt_JM_UV0oPNhhj8CRtVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980041123653-m5351hvt3fvv47rgv1e62a5onlqms40e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
